@@ -1,0 +1,16 @@
+{
+  "name": "life-drop-saver",
+  "version": "1.0.0",
+  "description": "Blood donation platform with donor & hospital portals (Express + SQLite)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "multer": "^2.2.0"
+  },
+  "engines": {
+    "node": ">=22.5"
+  }
+}
